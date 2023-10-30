@@ -6,7 +6,7 @@
 
   <groupId>com.app</groupId>
   <artifactId>my-application</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>my-application</name>
   <!-- FIXME change it to the project's website -->
